@@ -1,0 +1,32 @@
+[
+  {
+    "text": "\uD83D\uDCB0 买/卖",
+    "data": "wallet",
+    "btn_type": "data"
+  },
+  {
+    "text": "\uD83E\uDDE7钱包",
+    "data": "redpacket",
+    "btn_type": "data"
+  },
+  {
+    "text": "\uD83E\uDE99挂单",
+    "data": "recharge",
+    "btn_type": "data"
+  },
+  {
+    "text": "\uD83C\uDFE6跟单",
+    "data": "withdraw",
+    "btn_type": "data"
+  },
+  {
+    "text": "↔\uFE0F设置",
+    "data": "transfer",
+    "btn_type": "data"
+  },
+  {
+    "text": "\uD83E\uDDFE邀请好友",
+    "data": "trade",
+    "btn_type": "data"
+  }
+]

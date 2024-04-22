@@ -1,0 +1,9 @@
+datasource:
+  driverName: mysql
+  host: 127.0.0.1:3306
+  port: 3306
+  database: dex_bot
+  username: dex
+  password: Dex9527@#
+debug: true
+token: 6936920245:AAHVA2au5E41uwDB4uqmY730nhR0S6clebg
